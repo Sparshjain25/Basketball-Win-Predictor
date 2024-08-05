@@ -90,7 +90,7 @@ Include, as part of your answer:
   - What you view as the strengths and weaknesses of your model.  
   - How you'd address the weaknesses if you had more time and/or more data.  
   - Apply your model to the 2024 NBA playoffs (2023 season) and create a high quality visual (a table, a plot, or a plotly) showing the 16 teams' (that made the first round) chances of advancing to each round.
-  - 
+    
 **COMMENT** -
 This is an intentionally open ended question, and there are multiple approaches we can take. Here are a few notes and specifications:    
 1. My final output includes the probability of each team winning the series. For example: “Team A has a 30% chance to win and team B has a 70% chance.” instead of “Team B will win.” I am also predicting the number of games in the series.
